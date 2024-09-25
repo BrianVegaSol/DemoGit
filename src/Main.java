@@ -4,8 +4,8 @@ public class Main {
 
 
         String codingThoughts = "I think coding is great!";
-
-
+        boolean isEnjoyingClass= true;
+        // comment
 
 
     }
