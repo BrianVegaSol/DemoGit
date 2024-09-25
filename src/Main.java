@@ -6,7 +6,7 @@ public class Main {
         String codingThoughts = "I think coding is great!";
         boolean isEnjoyingClass= true;
         // comment
-        int num = 1;
+        int num = 1; //
 
     }
 }
